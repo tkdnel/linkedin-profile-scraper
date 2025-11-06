@@ -604,8 +604,6 @@ This LinkedIn scraper tool is for **educational and research purposes only**. Us
 
 If this LinkedIn profile scraper helped you, please ⭐ star this repository on GitHub!
 
-**Keywords**: linkedin scraper, linkedin profile scraper, linkedin data scraper, linkedin scraping tool, linkedin automation, linkedin api, profile extractor, linkedin data extraction, linkedin bulk scraper, linkedin recruiter tool, linkedin lead generation
-
 ---
 
 **💙 Made with love by [LinkdAPI Team](https://linkdapi.com)**
